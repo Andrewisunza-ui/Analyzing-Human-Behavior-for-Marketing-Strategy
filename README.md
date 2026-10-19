@@ -15,7 +15,9 @@ I worked with bike trip data for the year 2025. The data was collected from [her
 
 Process:
 
-The dataset had millions of rows, so I decided to clean and analyze the data using SQL. The cleaning process involved the following four steps: removing duplicates, deleting rows with null values, standardizing the data, and creating columns for analysis. This ensured that the data was accurate, complete, and fit for use. Afterward, I extracted data from existing columns to create new columns for my analysis. This allowed me to focus on data that could answer my business question. 
+The dataset had millions of rows, so I decided to clean and analyze the data using SQL. The cleaning process involved the following four steps: removing duplicates, deleting rows with null values, standardizing the data, and creating columns for analysis. This ensured that the data was accurate, complete, and fit for use. Afterward, I extracted data from existing columns to create new columns for my analysis. This allowed me to focus on data that could answer my business question.
+
+To access the .csv file of the cleaned dataset, click [here](https://drive.google.com/file/d/1FollTL1RPA9i7wSep1tziQKP8Y3xUkUZ/view?usp=share_link) 
 
 Analyze:
 
@@ -39,7 +41,9 @@ My analysis revealed the following insights:
 
 <img width="468" height="258" alt="image" src="https://github.com/user-attachments/assets/e2c1c800-5897-4564-b490-3c9a942e3b4d" />
 
-4.	Casual riders tend to use bikes from late morning to late afternoon. The number of member rides spike in the early morning and late afternoon.  These spikes indicate that member riders are commuting to and from work on bikes. 
+4.	Casual riders tend to use bikes from late morning to late afternoon. The number of member rides spike in the early morning and late afternoon.  These spikes indicate that member riders are commuting to and from work on bikes.
+
+For a better visual experience, click [here](https://public.tableau.com/views/Cyclistic_17922756630800/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
 
 Act:
 

@@ -15,7 +15,7 @@ I worked with bike trip data for the year 2025. The data was collected from [her
 
 Process:
 
-The dataset had millions of rows, so I decided to clean and analyze the data using SQL. The cleaning process involved the following four steps: removing duplicates, deleting rows with null values, standardizing the data, and creating columns for analysis. This ensured that the data was accurate, complete, and fit for use. Afterward, I extracted data from existing columns to create new columns for my analysis. This allowed me to focus on data that could answer my business question.
+The dataset had millions of rows, so I decided to clean and analyze the data using SQL and Tableau. The cleaning process involved the following four steps: removing duplicates, deleting rows with null values, standardizing the data, and creating columns for analysis. This ensured that the data was accurate, complete, and fit for use. Afterward, I extracted data from existing columns to create new columns for my analysis. This allowed me to focus on data that could answer my business question.
 
 To access the .csv file of the cleaned dataset, click [here](https://drive.google.com/file/d/1FollTL1RPA9i7wSep1tziQKP8Y3xUkUZ/view?usp=share_link) 
 
